@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <H1>Здесь страница о нас!</H1>
+    <H1>Здесь будет страница о нас!</H1>
 </body>
 </html>
